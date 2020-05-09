@@ -1,7 +1,3 @@
-'''
-vi ~/.gitconfig 尝试修改终端和网页端用户名为John，试试是否依旧能commit
-将上面一行整理到git笔记中
-'''
 class Solution:
     def romanToInt(self, s: str) -> int:
         numeral_map = {
